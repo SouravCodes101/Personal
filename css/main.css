@@ -180,10 +180,10 @@ p {
   }
 
   .bottom-cloud {
-    max-width: 27%;
-    max-height: 27%;
+    max-width: 25%;
+    max-height: 25%;
     display: block;
-    top: 180px;
+    top: 50px;
     left: 0px;
   }
 
